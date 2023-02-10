@@ -1,0 +1,85 @@
+{
+    "characters": [
+      {
+        "id":"1",
+        "name": "Iron Man",
+        "realname": "Tony Stark",
+        "species": "Human",
+        "description": "Billionaire Tony Stark became a superhero after creating the Iron Man suit. ",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/e/e9/Iron_Man_AIW_Profile.jpg/revision/latest?cb=20180518212029"
+      },
+      {
+        "id":"2",
+        "name": "Captain America",
+        "realname": "Steve Rogers",
+        "species": "Human",
+        "description": "After undergoing a secret experiment at the hands of the United States government, Steve Rodgers went from frail young man to a supersoldier.",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/6/66/Captain_America_AIW_Profile.jpg/revision/latest?cb=20180518211704"
+      },
+      {
+        "id":"3",
+        "name": "Hulk",
+        "realname": "Bruce Banner",
+        "species": "Human",
+        "description": "Bruce Banner is one of the most famous members of the Avengers. He's known for his TV catchphrase.You wouldn't like me when I'm angry.",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/c/c3/Hulk_AIW_Profile.jpg/revision/latest?cb=20180518211829"
+      },
+      {
+        "id":"4",
+        "name": "Thor",
+        "realname": "Thor Odinson",
+        "species": "Asgardian",
+        "description": "Thor, the son of Odin and brother of Loki, became a much more popular character at the start of the Marvel Cinematic Universe. ",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/4/45/Thor_AIW_Profile.jpg/revision/latest?cb=20180518212120"
+      },
+      {
+        "id":"5",
+        "name": "Black Widow",
+        "realname": "Natasha Romanoff",
+        "species": "Human",
+        "description": "Natasha Romanov may have started out as a Russian spy but after defecting to the United States she's become one of the few Avengers without superhero powers.",
+        "image": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/50/Black_Widow_AIW_Profile.jpg/revision/latest?cb=20180518212205"
+      },
+      {
+        "id":"6",
+        "name": "Black Panther",
+        "realname": "T'Challa",
+        "species": "Human",
+        "description": "T'Challa is the leader of the African nation of Wakanda making him one of the richest members of the Marvel Universe. He was also the first African superhero.",
+        "image": "https://static.wikia.nocookie.net/marveldatabase/images/6/63/Black_Panther_Vol_8_1_Devil_Dog_Comics_and_Jolzar_Collectibles_Exclusive_Virgin_Variant.jpg/revision/latest?cb=20210804214952"
+      },
+      {
+        "id":"7",
+        "name": "Moon Knight",
+        "realname": "Mars Spector",
+        "species": "Human",
+        "description": "Marc Spector was given his superhuman powers by the Egyptian moon god Khonshu. ",
+        "image":"https://www.liveabout.com/thmb/X2t0Amzbssa50OUm2eItjlxU8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/moonknight-58bad7e03df78c353c4d2476.jpg"
+      },
+      {
+        "id":"8",
+        "name": "Dr Strange",
+        "realname": "Stephen Strange",
+        "species": "Human",
+        "description": "Doctor Stephen Strange is a fictional character appearing in American comic books published by Marvel Comics. Created by Steve Ditko, the character first appeared in Strange Tales #110. Doctor Strange serves as Sorcerer Supreme, the primary protector of Earth against magical and mystical threats.",
+        "image":"https://i.pinimg.com/originals/5f/30/8d/5f308d8289c8d8c1003ce443719a7119.jpg"
+      },
+      {
+        "id":"9",
+        "name": "Iceman",
+        "realname": "Bobby",
+        "species": "Human",
+        "description": "Iceman is a mutant born with superhuman abilities. He has the ability to manipulate ice and cold by freezing water vapor around him. This allows him to freeze objects, as well as cover his body with ice.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Iceman.png"
+      },
+      {
+        "id":"10",
+        "name": "Punisher",
+        "realname": "Bobby",
+        "species": "Human",
+        "description": " the Punisher was an Italian-American former US Marine who served in multiple tours of duty, including the Siancong War, where he received the Bronze Star, Silver Star, and four Purple Hearts. He became a vigilante after seeing his wife and children gunned down for accidentally observing a Mafia hit. Now with a distinct death's head skull adorning his chest, he devoted his life to the task of destroying organized crime wherever he found it",
+        "image":"https://static.wikia.nocookie.net/p__/images/d/df/5052984-punisher.jpg/revision/latest?cb=20170214172954&path-prefix=protagonist"
+      }
+    ]
+}
+
