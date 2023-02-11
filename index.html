@@ -1,12 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+    <html>
+        <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="header">MARVEL CHARACTER LIKER APP</div>
+    <table>
+      <tr>
+        <th>Character Name</th>
+        <th>Image</th>
+        <th>Description</th>
+      </tr>
+      <tr class="character">
+        <td class="character-name"></td>
+        <td><img class="character-image" src="" alt="Character Image"></td>
+        <td>
+          <div class="character-description"></div>
+          <div class="character-details">
+            <form>
+              <input type="text" placeholder="Character Name">
+              <input type="text" placeholder="Image URL">
+              <textarea placeholder="Description"></textarea>
+              <button type="submit">Submit</button>
+            </form>
+          </div>
+        </td>
+        <td>
+          <button class="show-details">Details</button>
+          <button class="like-character">Like</button>
+        </td>
+      </tr>
+    </table>
+    <div class="favorite-characters">
+      Favorite Characters:
+      <ul class="favorite-list"></ul>
+    </div>
+  </body>
 </html>
