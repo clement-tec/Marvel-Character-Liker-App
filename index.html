@@ -7,34 +7,40 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>MARVEL CHARACTER LIKER APP</title>
       <base href="/">
-    <link rel="stylesheet" type="text/css" href="index.html">
+    <link rel="stylesheet" type="text/css" href="./src/style.css">
   </head>
   <body>
     <div class="header">MARVEL CHARACTER LIKER APP</div>
     <table>
       <tr>
+        <th>Characters list</th>
         <th>Character Name</th>
-        <th>Image</th>
-        <th>Description</th>
+        <th>Favorite characters</th>
       </tr>
       <tr class="character">
         <td class="character-name"></td>
-        <td><img class="character-image" src="" alt="Character Image"></td>
-        <td class="character-description"></td>
-        <td>
-          <div class="character-details">
-      <form>
-        <input type="text" placeholder="Character Name">
-        <input type="text" placeholder="Image URL">
-        <textarea placeholder="Description"></textarea>
-        <button type="submit">Submit</button>
-      </form>
-      <button class="like-character">Like</button>
+        <div class="character-details">
+          <td id="image">
+           <img class="character-image" src="">
+           <p class="character-description">character-description</p>
+           <button class="like-character">add to favorite</button>
+          </td>
+          <td class="favorite-characters">
+            <ul class="favorite-list">fav list</ul>
+          </td>
+        </div>
+
     </table>
-    <div class="favorite-characters">
-      Favorite Characters:
-      <ul class="favorite-list"></ul>
-    </div>
+    <form id="form">
+      <h2 class="new-character">ADD NEW CHARACTER HERE</h2>
+      <input type="text" placeholder="Character Name"><br> 
+      <br>
+      <input type="text" placeholder="Image URL"><br>
+      <br>
+      <textarea placeholder="Description"></textarea><br>
+      <br>
+      <button type="submit">Submit</button>
+    </form>
   </body>
 </html>
 
