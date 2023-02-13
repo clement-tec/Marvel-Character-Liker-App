@@ -1,8 +1,12 @@
 body {
   font-family: Arial, sans-serif;
+  background-image: url("https://wallpapercave.com/wp/wp9093021.jpg");
 }
 
 .header {
+  color: beige;
+  padding: 50px;
+  text-shadow: 1px 1px #5a1915;
   text-align: center;
   font-size: 36px;
   font-weight: bold;
@@ -10,6 +14,8 @@ body {
 }
 
 table {
+  box-shadow: 1px 1px #854444;
+  padding: 30px;
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -17,13 +23,26 @@ table {
 }
 
 td, th {
-  border: 1px solid #4d1717;
+  border: 1px solid #f8f2f2;
   text-align: left;
   padding: 8px;
 }
 
 th {
-  background-color: #854444;
+  text-shadow: 1px 1px #131111;
+  background-color: #361616;
+  opacity: 80%;
+  color: #f1e8e8;
+}
+
+td {
+  background-color: #ebe4e4;
+ 
+}
+
+#image { 
+  width: 25%;
+
 }
 
 .character-details {
@@ -39,9 +58,9 @@ th {
   font-weight: bold;
 }
 
-.show-details {
+.character image {
   background-color: #259429;
-  color: white;
+  color: rgb(189, 30, 30);
   padding: 8px 16px;
   text-align: center;
   text-decoration: none;
@@ -63,4 +82,11 @@ th {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 5px;
+}
+
+#form { 
+  padding: 50px;
+}
+.new-character {
+  color: #ebe4e4;
 }
