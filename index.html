@@ -8,25 +8,28 @@
       <title>MARVEL CHARACTER LIKER APP</title>
       <base href="/">
     <link rel="stylesheet" type="text/css" href="./src/style.css">
+    <script defer type="text/javascript" src ="./src/index.js"></script>
   </head>
   <body>
     <div class="header">MARVEL CHARACTER LIKER APP</div>
     <table>
       <tr>
         <th>Characters list</th>
-        <th>Character Name</th>
+        <th id="name">Character Name</th>
         <th>Favorite characters</th>
       </tr>
       <tr class="character">
-        <td class="character-name"></td>
+        <td class="character-name">
+          <ul id="character-list"></ul>
+        </td>
         <div class="character-details">
           <td id="image">
-           <img class="character-image" id="characterImage" src="">
+           <img class="character-image" id="characterimage" src="">
            <p class="character-description">character-description</p>
            <button class="like-character">add to favorite</button>
           </td>
           <td class="favorite-characters">
-            <ul class="favorite-list">fav list</ul>
+            <ul class="favorite-list"></ul>
           </td>
         </div>
 
