@@ -37,12 +37,8 @@ th {
 
 td {
   background-color: #ebe4e4;
- 
-}
-
-#image { 
-  width: 25%;
-
+  height: 750px;
+  width: 33px;
 }
 
 .character-details {
@@ -85,7 +81,7 @@ td {
 }
 
 #form { 
-  padding: 50px;
+  padding: 80px 30px;
 }
 .new-character {
   color: #ebe4e4;
