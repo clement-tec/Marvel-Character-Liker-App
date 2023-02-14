@@ -65,7 +65,22 @@ form.addEventListener("submit", (e) => {
     renderCharacterList(newCharacter)
 })
 
-// document.querySelector(".favorite-list li").textContent
-// 'CAPTAIN AMERICA'
-// document.querySelectorAll(".favorite-list li")[1].textContent
-// 'PUNISHER'
+
+//  helper function for the form
+
+function fillIn(form, data) {
+    for (field in data) {
+      // use [] notation for accessing data stored 
+      // in an object at variable keys, i.e. when
+      // we don't know the key name up front.
+      // In this case, it comes from an argument.
+      form[field].value = data[field]
+    }
+  }
+
+
+fillIn(form, {
+    name: "Thanos",
+    image: "https://media.wired.com/photos/5ae242d3c302e41716cebb76/original/pass/InfinityWarComics_COVER.jpg",
+    description: "Thanos is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55. "
+  })
