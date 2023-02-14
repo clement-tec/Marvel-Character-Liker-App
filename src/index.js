@@ -6,6 +6,7 @@ const description = document.querySelector(".character-description");
 const addButton = document.querySelector(".like-character")
 const favoriteList = document.querySelector(".favorite-list")
 const favoriteNames = document.querySelectorAll(".favorite-list li")
+const form = document.querySelector("#form")
 let currentCharacter
 
 
@@ -49,6 +50,20 @@ function createFaveList(currentCharacter) {
     faveLi.textContent = currentCharacter.name.toUpperCase()
     favoriteList.append(faveLi)
 }
+
+// form
+
+form.addEventListener("submit", (e) => {
+    e.preventDefault()
+  
+    const newCharacter = {
+        name: e.target.name.value,
+        image: e.target.image.value,
+        description: e.target.description.value
+    }
+
+    renderCharacterList(newCharacter)
+})
 
 // document.querySelector(".favorite-list li").textContent
 // 'CAPTAIN AMERICA'
