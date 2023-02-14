@@ -19,8 +19,6 @@ dropDown.addEventListener("change", (e) => {
     results.forEach(renderCharacterList)
 })
 
-
-
 fetch('http://localhost:3000/characters')
 .then(Response => Response.json())
 .then(dataCharacters => {
@@ -33,7 +31,6 @@ const renderCharacterList = (character) => {
     li.style.cursor = 'pointer';
     li.textContent = character.name.toUpperCase();
     ul.appendChild(li);
-    
     li.addEventListener("click", () => {
         currentCharacter = character;
         characterName.textContent = character.name
@@ -61,18 +58,14 @@ function createFaveList(currentCharacter) {
 }
 
 // form
-
 form.addEventListener("submit", (e) => {
     e.preventDefault()
-  
     const newCharacter = {
         name: e.target.name.value,
         image: e.target.image.value,
         description: e.target.description.value
     }
-
     renderCharacterList(newCharacter)
-
     fetch("http://localhost:3000/characters", {
         method: "POST",
         headers: {
@@ -83,12 +76,7 @@ form.addEventListener("submit", (e) => {
     })
 })
 
-
-
-
-
 //  helper function for the form
-
 function fillIn(form, data) {
     for (field in data) {
       // use [] notation for accessing data stored 
@@ -98,8 +86,6 @@ function fillIn(form, data) {
       form[field].value = data[field]
     }
   }
-
-
 fillIn(form, {
     // name: "Thanos",
     // image: "https://w0.peakpx.com/wallpaper/55/926/HD-wallpaper-thanos-crown-infinity-war-marvel-movie.jpg",
