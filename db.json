@@ -1,125 +1,136 @@
 {
-    "characters": [
-      {
-        "id":"1",
-        "name": "Iron Man",
-        "description": "Billionaire Tony Stark became a superhero after creating the Iron Man suit. ",
-        "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8654427-ezgif-1-2f113089e4.jpg"
-      },
-      {
-        "id":"2",
-        "name": "Captain America",
-        "description": "After undergoing a secret experiment at the hands of the United States government, Steve Rodgers went from frail young man to a supersoldier.",
-        "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8459983-rco031_1650495781.jpg"
-      },
-      {
-        "id":"3",
-        "name": "Hulk",
-        "description": "Bruce Banner is one of the most famous members of the Avengers. He's known for his TV catchphrase.You wouldn't like me when I'm angry.",
-        "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/7892286-immortal_hulk_vol_1_38_.jpg"
-      },
-      {
-        "id":"4",
-        "name": "Thor",
-        "description": "Thor, the son of Odin and brother of Loki, became a much more popular character at the start of the Marvel Cinematic Universe. ",
-        "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8632242-rco009_1653501316.jpg"
-      },
-      {
-        "id":"5",
-        "name": "Black Widow",
-        "description": "Natasha Romanov may have started out as a Russian spy but after defecting to the United States she's become one of the few Avengers without superhero powers.",
-        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/748f1047-63eb-4002-b987-5866e7dbaf88/dd7qmev-cc75c5dc-ea4f-46cc-bdb1-1045e71ca693.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0OGYxMDQ3LTYzZWItNDAwMi1iOTg3LTU4NjZlN2RiYWY4OFwvZGQ3cW1ldi1jYzc1YzVkYy1lYTRmLTQ2Y2MtYmRiMS0xMDQ1ZTcxY2E2OTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.f98ywp07_Ue-7dWwAyLZKdG8ShlC01H91RynS-DUBN8"
-      },
-      {
-        "id":"6",
-        "name": "Black Panther",
-        "description": "T'Challa is the leader of the African nation of Wakanda making him one of the richest members of the Marvel Universe. He was also the first African superhero.",
-        "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png"
-      },
-      {
-        "id":"7",
-        "name": "Moon Knight",
-        "description": "Marc Spector was given his superhuman powers by the Egyptian moon god Khonshu. ",
-        "image":"https://www.liveabout.com/thmb/X2t0Amzbssa50OUm2eItjlxU8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/moonknight-58bad7e03df78c353c4d2476.jpg"
-      },
-      {
-        "id":"8",
-        "name": "Dr Strange",
-        "description": "Doctor Stephen Strange is a fictional character appearing in American comic books published by Marvel Comics. Created by Steve Ditko, the character first appeared in Strange Tales #110. Doctor Strange serves as Sorcerer Supreme, the primary protector of Earth against magical and mystical threats.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8304261-death_of_doctor_strange_vol_1_4.jpg"
-      },
-      {
-        "id":"9",
-        "name": "Iceman",
-        "description": "Iceman is a mutant born with superhuman abilities. He has the ability to manipulate ice and cold by freezing water vapor around him. This allows him to freeze objects, as well as cover his body with ice.",
-        "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Iceman.png"
-      },
-      {
-        "id":"10",
-        "name": "Punisher",
-        "description": " the Punisher was an Italian-American former US Marine who served in multiple tours of duty, including the Siancong War, where he received the Bronze Star, Silver Star, and four Purple Hearts. He became a vigilante after seeing his wife and children gunned down for accidentally observing a Mafia hit. Now with a distinct death's head skull adorning his chest, he devoted his life to the task of destroying organized crime wherever he found it",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/11125/111253019/6465266-punisher_vol_12_1_textless.jpg"
-      },
-      {
-        "id":"11",
-        "name": "Deadpool",
-        "description": " Wade Wilson is a former test subject of the Weapon X program, where he received his regenerative healing factor through the scientific experiments conducted upon him. A prominent enemy, ally and later, member of X-Force. He's famous for breaking the Fourth Wall.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/11131/111317321/6386545-deadpool_assassin_vol_1_2_textless.jpg"
-      },
-      {
-        "id":"12",
-        "name": "Gambit",
-        "description": " A charming master thief and skilled martial artist who became a member of the X-Men, Gambit possesses the mutant ability to change potential energy in inanimate objects into kinetic energy which causes them to explode. His signature move is throwing kinetically-charged playing cards at his opponents.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/11126/111269625/7324346-excalibur%20variant.jpg"
-      },
-      {
-        "id":"13",
-        "name": "Cyclops",
-        "description": " The first X-Man, Scott Summers possesses the mutant ability to fire powerful concussive blasts through his eyes that act as a portal to another dimension full of the force that makes up his optic blast. He is visually distinctive for the ruby quartz visor he wears to control his devastating power. A born leader, Cyclops succeeded his mentor Professor X to command the X-Men.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/7740086-rco001_1609391996.jpg"
-      },
-      {
-        "id":"14",
-        "name": "Nightcrawler",
-        "description": " Kurt Wagner is a prominent member of the X-Men and former member and leader of Excalibur. He possessed the Neyaphemian ability of teleportation, as well as incredible agility, wall scaling and a prehensile tail. Nightcrawler is a devout Catholic, contrasting his demonic appearance. He is a highly skilled swordsmen and former circus acrobat.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8645156-ezgif-1-0f4e60d046.jpg"
-      },
-      {
-        "id":"15",
-        "name": "Nick Fury",
-        "description": " Nicholas Joseph Fury served in World War II as the leader of the Howling Commandos. He later became an agent, and eventually director, of S.H.I.E.L.D. Fury is one of the greatest strategic minds in the world, a born leader and a master of espionage. He currently serves as a replacement Watcher.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/8/80111/5323224-nick%20furia%2016.png"
-      },
-      {
-        "id":"16",
-        "name": "Human Torch",
-        "description": " The second most powerful member of the Fantastic Four and the younger brother of Sue Richards. Due to an accident caused by cosmic radiation in space, he can manipulate fire, turn his entire body into it and fly. While Johnny is known for his impetuous and sometimes reckless nature, he is also a loyal friend and fearless hero.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8338234-b5866c56-93ff-4db0-aeca-9844ff09eac3_rw_1200.jpg"
-      },
-      {
-        "id":"17",
-        "name": "Professor",
-        "description": " Professor Charles Xavier is the creator of the X-Men and founder of the Xavier School for Gifted Youngsters. His dream of peaceful coexistence between mutants and humanity has long been the driving force for the X-Men. An immensely powerful telepath and scientific genius, Xavier was among the world's greatest masterminds. Killed at the hands of a Phoenix crazed Cyclops, Xavier's memory and dream still remains and motivates his X-Men to keep fighting for a world that fears and hates them.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/10/100647/7261595-hox1pichelli.jpg"
-      },
-      {
-        "id":"18",
-        "name": "Storm",
-        "description": " An Omega Level Mutant and Wakandan Goddess, Ororo Munroe is gifted with the superhuman ability to manipulate the natural energy patterns of the universe to produce weather phonomena ranging from the lightest of breezes to the most powerful solar winds",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/11144/111442876/8795953-gsh.jpg"
-      },
-      {
-        "id":"19",
-        "name": "Namor",
-        "description": " amor the Sub-Mariner is the ruler of undersea Atlantis. The offspring of a sea captain and an Atlantean princess, he has been both a hero and a villain to the surface world. Namor is one of Marvel's oldest published characters with his origins in the Golden Age of comics.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/7642506-0083aa18cc79f26640e29a8594e2e51e.jpg"
-      },
-      {
-        "id":"20",
-        "name": "Ares",
-        "description": " Ares is the son of Zeus and the Olympian God of War. After years of fighting against The Avengers, Thor, and mostly his own brother Hercules, Ares joined the ranks of the Avengers. He was a member of Tony Stark's official Avengers team and later Norman Osborn's Dark Avengers. After he attacked Osborn for tricking him in starting Siege on Asgard, he was stopped and killed by the Sentry.",
-        "image":"https://comicvine.gamespot.com/a/uploads/scale_small/10/100647/4142212-3339666-fearless%2Bdefenders4au-014%2Bcopy.jpg"
-      }
-    ]
+  "characters": [
+    {
+      "id": "1",
+      "name": "Iron Man",
+      "description": "Billionaire Tony Stark became a superhero after creating the Iron Man suit. ",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8654427-ezgif-1-2f113089e4.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Captain America",
+      "description": "After undergoing a secret experiment at the hands of the United States government, Steve Rodgers went from frail young man to a supersoldier.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8459983-rco031_1650495781.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Hulk",
+      "description": "Bruce Banner is one of the most famous members of the Avengers. He's known for his TV catchphrase.You wouldn't like me when I'm angry.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/7892286-immortal_hulk_vol_1_38_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Thor",
+      "description": "Thor, the son of Odin and brother of Loki, became a much more popular character at the start of the Marvel Cinematic Universe. ",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8632242-rco009_1653501316.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Black Widow",
+      "description": "Natasha Romanov may have started out as a Russian spy but after defecting to the United States she's become one of the few Avengers without superhero powers.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/748f1047-63eb-4002-b987-5866e7dbaf88/dd7qmev-cc75c5dc-ea4f-46cc-bdb1-1045e71ca693.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc0OGYxMDQ3LTYzZWItNDAwMi1iOTg3LTU4NjZlN2RiYWY4OFwvZGQ3cW1ldi1jYzc1YzVkYy1lYTRmLTQ2Y2MtYmRiMS0xMDQ1ZTcxY2E2OTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.f98ywp07_Ue-7dWwAyLZKdG8ShlC01H91RynS-DUBN8"
+    },
+    {
+      "id": "6",
+      "name": "Black Panther",
+      "description": "T'Challa is the leader of the African nation of Wakanda making him one of the richest members of the Marvel Universe. He was also the first African superhero.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png"
+    },
+    {
+      "id": "7",
+      "name": "Moon Knight",
+      "description": "Marc Spector was given his superhuman powers by the Egyptian moon god Khonshu. ",
+      "image": "https://www.liveabout.com/thmb/X2t0Amzbssa50OUm2eItjlxU8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/moonknight-58bad7e03df78c353c4d2476.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Dr Strange",
+      "description": "Doctor Stephen Strange is a fictional character appearing in American comic books published by Marvel Comics. Created by Steve Ditko, the character first appeared in Strange Tales #110. Doctor Strange serves as Sorcerer Supreme, the primary protector of Earth against magical and mystical threats.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8304261-death_of_doctor_strange_vol_1_4.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Iceman",
+      "description": "Iceman is a mutant born with superhuman abilities. He has the ability to manipulate ice and cold by freezing water vapor around him. This allows him to freeze objects, as well as cover his body with ice.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Iceman.png"
+    },
+    {
+      "id": "10",
+      "name": "Punisher",
+      "description": " the Punisher was an Italian-American former US Marine who served in multiple tours of duty, including the Siancong War, where he received the Bronze Star, Silver Star, and four Purple Hearts. He became a vigilante after seeing his wife and children gunned down for accidentally observing a Mafia hit. Now with a distinct death's head skull adorning his chest, he devoted his life to the task of destroying organized crime wherever he found it",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11125/111253019/6465266-punisher_vol_12_1_textless.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Deadpool",
+      "description": " Wade Wilson is a former test subject of the Weapon X program, where he received his regenerative healing factor through the scientific experiments conducted upon him. A prominent enemy, ally and later, member of X-Force. He's famous for breaking the Fourth Wall.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11131/111317321/6386545-deadpool_assassin_vol_1_2_textless.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Gambit",
+      "description": " A charming master thief and skilled martial artist who became a member of the X-Men, Gambit possesses the mutant ability to change potential energy in inanimate objects into kinetic energy which causes them to explode. His signature move is throwing kinetically-charged playing cards at his opponents.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11126/111269625/7324346-excalibur%20variant.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Cyclops",
+      "description": " The first X-Man, Scott Summers possesses the mutant ability to fire powerful concussive blasts through his eyes that act as a portal to another dimension full of the force that makes up his optic blast. He is visually distinctive for the ruby quartz visor he wears to control his devastating power. A born leader, Cyclops succeeded his mentor Professor X to command the X-Men.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/7740086-rco001_1609391996.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Nightcrawler",
+      "description": " Kurt Wagner is a prominent member of the X-Men and former member and leader of Excalibur. He possessed the Neyaphemian ability of teleportation, as well as incredible agility, wall scaling and a prehensile tail. Nightcrawler is a devout Catholic, contrasting his demonic appearance. He is a highly skilled swordsmen and former circus acrobat.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8645156-ezgif-1-0f4e60d046.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Nick Fury",
+      "description": " Nicholas Joseph Fury served in World War II as the leader of the Howling Commandos. He later became an agent, and eventually director, of S.H.I.E.L.D. Fury is one of the greatest strategic minds in the world, a born leader and a master of espionage. He currently serves as a replacement Watcher.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/8/80111/5323224-nick%20furia%2016.png"
+    },
+    {
+      "id": "16",
+      "name": "Human Torch",
+      "description": " The second most powerful member of the Fantastic Four and the younger brother of Sue Richards. Due to an accident caused by cosmic radiation in space, he can manipulate fire, turn his entire body into it and fly. While Johnny is known for his impetuous and sometimes reckless nature, he is also a loyal friend and fearless hero.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/8338234-b5866c56-93ff-4db0-aeca-9844ff09eac3_rw_1200.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Professor",
+      "description": " Professor Charles Xavier is the creator of the X-Men and founder of the Xavier School for Gifted Youngsters. His dream of peaceful coexistence between mutants and humanity has long been the driving force for the X-Men. An immensely powerful telepath and scientific genius, Xavier was among the world's greatest masterminds. Killed at the hands of a Phoenix crazed Cyclops, Xavier's memory and dream still remains and motivates his X-Men to keep fighting for a world that fears and hates them.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/10/100647/7261595-hox1pichelli.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Storm",
+      "description": " An Omega Level Mutant and Wakandan Goddess, Ororo Munroe is gifted with the superhuman ability to manipulate the natural energy patterns of the universe to produce weather phonomena ranging from the lightest of breezes to the most powerful solar winds",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11144/111442876/8795953-gsh.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Namor",
+      "description": " amor the Sub-Mariner is the ruler of undersea Atlantis. The offspring of a sea captain and an Atlantean princess, he has been both a hero and a villain to the surface world. Namor is one of Marvel's oldest published characters with his origins in the Golden Age of comics.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/12/124259/7642506-0083aa18cc79f26640e29a8594e2e51e.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Ares",
+      "description": " Ares is the son of Zeus and the Olympian God of War. After years of fighting against The Avengers, Thor, and mostly his own brother Hercules, Ares joined the ranks of the Avengers. He was a member of Tony Stark's official Avengers team and later Norman Osborn's Dark Avengers. After he attacked Osborn for tricking him in starting Siege on Asgard, he was stopped and killed by the Sentry.",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/10/100647/4142212-3339666-fearless%2Bdefenders4au-014%2Bcopy.jpg"
+    },
+    {
+      "name": "Thanos",
+      "image": "https://w0.peakpx.com/wallpaper/55/926/HD-wallpaper-thanos-crown-infinity-war-marvel-movie.jpg",
+      "description": "Thanos is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55. ",
+      "id": "WyCxN5g"
+    },
+    {
+      "name": "War Machine4",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/113509/4985511-war%20machine%20anad.jpg",
+      "description": "War Machine is a fictional character, a superhero appearing in American comic books published by Marvel Comics.",
+      "id": "KflSq-m"
+    }
+  ]
 }
-
