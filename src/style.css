@@ -114,4 +114,5 @@ p {
 }
 .new-character {
   color: #ebe4e4;
+  text-shadow: 1px 1px black;
 }
