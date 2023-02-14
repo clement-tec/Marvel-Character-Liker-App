@@ -34,8 +34,6 @@ const renderCharacterList = (character) => {
 
 addButton.addEventListener("click", () => {
     const faveLi = document.createElement("li")
-    faveLi.textContent = currentCharacter.name
+    faveLi.textContent = currentCharacter.name.toUpperCase()
     favoriteList.append(faveLi)
-
-
 })

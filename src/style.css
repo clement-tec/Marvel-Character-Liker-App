@@ -18,8 +18,11 @@ table {
   padding: 30px;
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
   margin-bottom: 20px;
+  margin: auto;
+  align-items: center;
+  
 }
 
 td, th {
@@ -31,21 +34,46 @@ td, th {
 th {
   text-shadow: 1px 1px #131111;
   background-color: #361616;
+  width: 500px;
   opacity: 80%;
   color: #f1e8e8;
 }
 
 td {
-  background-color: #ebe4e4;
+  background-color: #fffbfb;
   height: 750px;
   width: 33px;
+  opacity: 95%;
+  vertical-align: top;
+}
+
+li {
+  background-color: rgb(211, 209, 209);
+  font-size: 15px;
+  margin-top: 5px;
+  padding: 5px;
+  scroll-behavior: smooth ;
+  list-style-type: none;
+
+}
+
+img {
+  height: 600px;
+  width: 400px;
+}
+p {
+  background-color: #c5c1c1;
+  font-size: 20px;
+  height: 300px;
+  width: 400px;
+  padding: 15px;
 }
 
 .character-details {
   display: none;
   background-color: #831616;
   padding: 10px;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .favorite-characters {
@@ -82,6 +110,7 @@ td {
 
 #form { 
   padding: 80px 30px;
+  margin : auto
 }
 .new-character {
   color: #ebe4e4;
