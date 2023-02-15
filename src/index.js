@@ -14,12 +14,16 @@ const dropDown = document.querySelector("#character-dropdown")
 
 dropDown.addEventListener("change", (e) => {
     ul.innerHTML = ''
-    console.log(e.target.value)
-    const results = characters.filter(character => character.name[0] === e.target.value.toUpperCase())
-    results.forEach(renderCharacterList)
+    fetch('http://localhost:3000/characters')
+    .then(Response => Response.json())
+    .then(dataCharacters => {
+        const results = dataCharacters.filter(character => character.name[0] === e.target.value.toUpperCase())
+        results.forEach(renderCharacterList)
+    }
+    )
 })
 
-fetch('http://localhost:3000/characters')
+fetch('http://localhost:3000/characters?_limit=25')
 .then(Response => Response.json())
 .then(dataCharacters => {
     characters = dataCharacters
