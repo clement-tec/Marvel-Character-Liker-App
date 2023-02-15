@@ -51,11 +51,18 @@ addButton.addEventListener("click", () => {
     }
 })
 
+
 function createFaveList(currentCharacter) {
     const faveLi = document.createElement("li")
     faveLi.textContent = currentCharacter.name.toUpperCase()
+
     favoriteList.append(faveLi)
+
+    faveLi.addEventListener("click", (e) => {
+        e.target.remove()
+    })
 }
+
 
 // form
 form.addEventListener("submit", (e) => {
