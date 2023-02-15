@@ -121,16 +121,159 @@
       "image": "https://comicvine.gamespot.com/a/uploads/scale_small/10/100647/4142212-3339666-fearless%2Bdefenders4au-014%2Bcopy.jpg"
     },
     {
-      "name": "Thanos",
-      "image": "https://w0.peakpx.com/wallpaper/55/926/HD-wallpaper-thanos-crown-infinity-war-marvel-movie.jpg",
-      "description": "Thanos is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man #55. ",
-      "id": "WyCxN5g"
+      "id": "21",
+      "name": "Kang",
+      "description": " Nathaniel Richards has had various incarnations over the years and each identity has its own, ever-expanding history. For the sake of clarity, this article will only cover, essentially, the history of Nathaniel Richards during his time as Kang. ",
+      "image": "https://i.pinimg.com/736x/51/40/1f/51401f126ba618c4aef5eb15c938707c.jpg"
     },
     {
+      "id": "22",
+      "name": "Adam Warlock",
+      "description": " Warlock was created by the group of researchers who called themselves the Enclave. The goal of the researchers was to create the perfect human being, the pinnacle of future human evolution. Fortunately for the denizens of Earth, the new being was a creature beyond the control of his creators.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/f/f0/Adam_Warlock_%28Earth-616%29_from_Infinity_Wars_Infinity_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/325?cb=20190302234015"
+    },
+    {
+      "id": "23",
+      "name": "Victor von Doom",
+      "description": "  Doctor Doom is a Latverian politician who serves as the Monarch and Supreme Leader for the Kingdom of Latveria.He was scarred from an accident and wears an iron mask and armor to hide his true face.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/b/bb/Fantastic_Four_Vol_6_25_Artgerm_Virgin_Variant.jpg/revision/latest/scale-to-width-down/329?cb=20200818172430"
+    },
+    {
+      "id": "24",
+      "name": "Erik the Red",
+      "description": " Erik the Red, who wore the mask of Davan Shakari,[1] was an agent of the Shi'ar Imperial Intelligence and Emperor D'ken's hand on Earth. He operated out of a hidden base inside a lifeless volcano in upstate New York.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/f/f4/Erik_the_Red_%28Earth-616%29_from_All-New_Official_Handbook_of_the_Marvel_Universe_A_to_Z_Vol_1_4_0001.jpg/revision/latest/scale-to-width-down/180?cb=20170503183411"
+    },
+    {
+      "id": "25",
+      "name": "Excalibur",
+      "description": " Excalibur is a government-sponsored team of extraordinary individuals with special abilities. They fight for the people of the United Kingdom and their interests around the globe. Frequently counting with Captain Britain among their ranks, the team is usually formed by British heroes and former members of the X-Men. ",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/2/23/Excalibur_Vol_4_1_Textless.jpg/revision/latest/scale-to-width-down/329?cb=20190722070938"
+    },
+    {
+      "id": "26",
+      "name": "Falcon",
+      "description": "When Steve Rogers asked Air Force Veteran Sam Wilson for help, Wilson immediately agreed. He donned the flight suit he’d used in combat to become the Falcon, setting him on a path towards becoming an Avenger and eventually Captain America.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/e/e1/Captain_America_Symbol_of_Truth_Vol_1_1_Clarke_Variant_Textless.jpg/revision/latest?cb=20220515050639"
+    },
+    {
+      "id": "27",
+      "name": "Frog-Man",
+      "description": "Eugene Patilio is an aspiring hero and the son of former Super Villain Leap-Frog. His power derives from electric coils in his boots that give him the ability to leap great distances. He has petitioned to join the Defenders, the Avengers, and to become Peter Parker, AKA Spider-Man's sidekick.",
+      "image": "https://static.wikia.nocookie.net/villains/images/4/4d/Frog_man.jpg/revision/latest?cb=20130131013653"
+    },
+    {
+      "id": "28",
+      "name": "Ghost Rider",
+      "description": "The title Ghost Rider has been used by individuals indwelled by a Spirit of Vengeance or similar demonic entity such as Zarathos; most famously Johnny Blaze, who sold his soul to the demon-lord Mephisto.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/e/ea/Thunderbolts_Vol_2_20.NOW_Textless.jpg/revision/latest/scale-to-width-down/250?cb=20140629175110"
+    },
+    {
+      "id": "29",
+      "name": "Gorilla Man",
+      "description": "I am a gorilla and I am a man. I am not a monster. ",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/5/51/Gorilla_Man_Vol_1_3_Textless.jpg/revision/latest?cb=20160613011321"
+    },
+    {
+      "id": "30",
+      "name": "Hydro-Man",
+      "description": "Once an ordinary crewman, Morris Bench was accidentally knocked overboard while stationed on his ship during a battle between Spider-Man and Namor, and fell into the ocean, where a powerful experimental generator was being tested. This led to his transformation into Hydro-Man who, blaming Spider-Man for what happened to him, turned to a life of crime while seeking revenge against the web-slinger.",
+      "image": "https://www.writeups.org/wp-content/uploads/Hydro-Man-Marvel-Comics-Spider-Man-Bench.jpg"
+    },
+    {
+      "id": "31",
+      "name": "Hellion",
+      "description": "Hellion (Julian Keller) is a fictional character, a mutant appearing in American comic books published by Marvel Comics. He was a member of the student body of the Xavier Institute before its closing and is a member of the X-Men's training squad.",
+      "image": "https://i.pinimg.com/736x/8d/56/49/8d5649066ccd7dc0efaafde0d6659370.jpg"
+    },
+    {
+      "id": "32",
+      "name": "Hercules",
+      "description": "Hercules is a character appearing in American comic books published by Marvel Comics. Debuting in the Silver Age of Comic Books, the character is based on Heracles of Greek mythology. Since his first appearance, he has been a perennial member of the superhero team the Avengers.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Hercules_%28Marvel_Comics_character%29.jpg/250px-Hercules_%28Marvel_Comics_character%29.jpg"
+    },
+    {
+      "id": "33",
+      "name": "Human Cannonball",
+      "description": " Cannonball is a mutant who uses the ability to fly at jet speeds while encased in an impenetrable force field. Cannonball was a founding member of the X-Men's junior team, the New Mutants, and served as X-Force's second-in-command and field leader.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlv_slzXr1UyGAMHzQlCaWuy4KDtyOzPDuZRJj36Va83SA8vC-zMszkY1dvwEGj7MfNNE&usqp=CAU"
+    },
+    {
+      "id": "34",
+      "name": "Imperial Guard",
+      "description": "The Imperial Guard was a legion of super-powered champions from throughout the intergalactic Shi'ar Empire who acted as enforcers of Imperial law. The original Imperial Guard was formed to stop Rook'shir, a Shi'ar who became the host of the Phoenix Force. ",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/3/38/Imperial_Guard_%28Earth-616%29_from_Avengers_Vol_5_5_cover.jpg/revision/latest/scale-to-width-down/321?cb=20130303022413"
+    },
+    {
+      "id": "35",
+      "name": "Impossible Man",
+      "description": "The alien being who became known as the Impossible Man was born on the planet Poppup and is a member of the Poppupian race. Living on a world fraught with danger the Poppupians evolved into a state where they could instantly transform into anything their imagination could create.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/8/85/Impossible_Man_%28Earth-616%29_from_Stan_Lee_Meets_Doctor_Strange_Vol_1_1_001.jpg/revision/latest/scale-to-width-down/348?cb=20220317191021"
+    },
+    {
+      "id": "36",
+      "name": "Ink",
+      "description": "Ink was one of the members of the Young X-Men team that believed themselves to have been organized by Cyclops, with Ink also believing himself to be a mutant. He was a loud-mouthed, rude teenager who didn't care what others thought about him, as proven by when he stood up to two police officers who wished to arrest him in a tattoo parlor. ",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/d/d8/Eric_Gitter_%28Earth-616%29_from_X-Men_Gold_Vol_2_23_001.jpg/revision/latest/scale-to-width-down/325?cb=20210524073105"
+    },
+    {
+      "id": "37",
+      "name": "Jigsaw",
+      "description": "Taking advantage of his now hideous visage, the formerly handsome gangster took on the identity of Jigsaw and initially attempted to frame the Punisher for murder. ",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/Punisher_War_Journal_Vol_2_18_Textless.jpg/revision/latest/scale-to-width-down/343?cb=20110103011734"
+    },
+    {
+      "id": "38",
+      "name": "Juggernaut",
+      "description": "Cain Marko, better known as Juggernaut, is a long time enemy and sometimes ally of the X-Men. As a child, Cain was regularly abused by his alcoholic father. His stepbrother, Charles Xavier, on the other hand was treated much better while also exceeding him in studies and sports.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/6/65/Juggernaut_Vol_3_3_Textless.jpg/revision/latest/scale-to-width-down/344?cb=20210519193740"
+    },
+    {
+      "id": "40",
+      "name": "Joystick",
+      "description": "She was once a student at the University of Arizona, living what she considered to be a boring life. After her sophomore year, something changed her. In her new life, she became determined to live life on the edge, and began taking extreme risks. She disappeared for three years, reappearing as Joystick.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/7/70/Janice_Yanizeski_%28Earth-616%29_from_All-New_Official_Handbook_of_the_Marvel_Universe_Vol_1_5_001.jpg/revision/latest/scale-to-width-down/214?cb=20201011192636"
+    },
+    {
+      "id": "41",
+      "name": "Jessica Jones",
+      "description": "You shoot that gun at me--I will pull that bullet out of my ruined four hundred dollar leather jacket...and I will shove it up your ass with my pinky finger. And which one of us do you think that will hurt more? ",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/f/ff/Jessica_Jones_Vol_2_4_Dekal_Variant_Textless.jpg/revision/latest/scale-to-width-down/329?cb=20161018161452"
+    },
+    {
+      "id": "42",
+      "name": "Joshua Kane",
+      "description": "Joshua Kane enjoyed the thrill of the hunt and was always looking for the next big game. For over twenty years he hunted lions, elephants, gorillas, rhino and even men. He eventually lost the thrill and excitement because it was no longer dangerous for him. In order to get that thrill back, he decided to hunt a werewolf.",
+      "image": "https://cmro.travis-starnes.com/images/characters/kanejoshua.jpg"
+    },
+    {
+      "id": "43",
+      "name": "King Cobra",
+      "description": "Klaus Voorhees whos is also king cobra was an ex-convict working with the humanitarian medical researcher Professor Ezekiel Shecktor in India on a universal antitoxin for snake venom. Jealous of Shecktor's success, Voorhees plotted to kill him and make the murder look like an accident.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/f/fb/Klaus_Voorhees_%28Earth-616%29_from_All-New_Official_Handbook_of_the_Marvel_Universe_Update_Vol_1_2_0002.jpg/revision/latest/scale-to-width-down/307?cb=20200508215353"
+    },
+    {
+      "id": "44",
+      "name": "Loki",
+      "description": "Loki Laufeyson, is the Trickster God, God of Mischief, Evil, and Lies, a member of the monstrous Frost Giants of Jotunheim but was adopted and raised among the Asgardians a group of humanoid beings from the pocket dimension of Asgard, the Realm Eternal.",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/a/a2/Loki_Laufeyson_%28Earth-616%29_from_Thor_Vol_3_12_0001.jpg/revision/latest/scale-to-width-down/329?cb=20201011071529"
+    },
+    {
+      "id": "45",
+      "name": "Logan",
+      "description": "Cursed with a berserker fury, the violent mutant known as Wolverine has a reputation of both as an outstanding super hero and as a lethal killer. Born as James Howlett to a wealthy Canadian family at the end of the 19th century, he was forced to abandon his family after the tragic manifestation of his bestial abilities of accelerated healing factor, keenly enhanced senses and bone claws in each hand. ",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/1/16/James_Howlett_%28Earth-616%29_from_Wolverine_Vol_7_1_Silva_Variant_cover_001.jpg/revision/latest/scale-to-width-down/329?cb=20191123041154"
+    },
+    {
+      "id": "48",
+      "name": "Thanos",
+      "image": "https://w0.peakpx.com/wallpaper/55/926/HD-wallpaper-thanos-crown-infinity-war-marvel-movie.jpg",
+      "description": "Thanos is a supervillain appearing in American comic books published by Marvel Comics. Created by writer-artist Jim Starlin, the character first appeared in The Invincible Iron Man."
+    },
+    {
+      "id": "49",
       "name": "War Machine4",
       "image": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/113509/4985511-war%20machine%20anad.jpg",
-      "description": "War Machine is a fictional character, a superhero appearing in American comic books published by Marvel Comics.",
-      "id": "KflSq-m"
+      "description": "War Machine is a fictional character, a superhero appearing in American comic books published by Marvel Comics."
     }
-  ]
-}
+]}
