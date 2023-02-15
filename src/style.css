@@ -22,7 +22,6 @@ table {
   margin-bottom: 20px;
   margin: auto;
   align-items: center;
-  
 }
 
 td, th {
@@ -41,7 +40,6 @@ th {
 
 td {
   background-color: #fffbfb;
-  height: 750px;
   width: 33px;
   opacity: 95%;
   vertical-align: top;

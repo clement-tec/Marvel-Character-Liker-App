@@ -10,6 +10,9 @@ const form = document.querySelector("#form")
 let currentCharacter
 let characters
 const dropDown = document.querySelector("#character-dropdown")
+const forward = document.querySelector("#forward")
+const back = document.querySelector("#back")
+let page = 1;
 
 
 dropDown.addEventListener("change", (e) => {
@@ -23,12 +26,39 @@ dropDown.addEventListener("change", (e) => {
     )
 })
 
-fetch('http://localhost:3000/characters?_limit=25')
+fetch(`http://localhost:3000/characters?_limit=20`)
 .then(Response => Response.json())
 .then(dataCharacters => {
+    ul.innerHTML = ""
     characters = dataCharacters
     dataCharacters.forEach(renderCharacterList)}
 )
+
+forward.addEventListener("click", () => {
+    if (page < 3) {
+        page += 1;
+        ul.innerHTML = ""
+        fetch(`http://localhost:3000/characters?_limit=20&_page=${page}`)
+        .then(Response => Response.json())
+        .then(dataCharacters => {
+            dataCharacters.forEach(renderCharacterList)
+        })
+    }
+    
+})
+
+back.addEventListener("click", () => {
+    if (page >= 2) {
+        ul.innerHTML = ""
+        page -= 1;
+
+        fetch(`http://localhost:3000/characters?_limit=20&_page=${page}`)
+        .then(Response => Response.json())
+        .then(dataCharacters => {
+            dataCharacters.forEach(renderCharacterList)
+        })
+    }
+})
 
 const renderCharacterList = (character) => {
     const li = document.createElement('li');
